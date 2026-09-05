@@ -1,1 +1,0 @@
-<h1>CRAFTIQUE.ID</h1>
