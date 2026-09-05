@@ -7,15 +7,15 @@ Centang [x] kalau sudah selesai.
 
 ## Fase 0: Setup & Foundation
 
-- [ ] Init project: `npx sv create craftique-id` (pilih SvelteKit + TypeScript)
-- [ ] Setup Supabase project baru (dapatkan `SUPABASE_URL`, `SUPABASE_ANON_KEY`, `SERVICE_ROLE_KEY`)
-- [ ] Install dependencies inti: `drizzle-orm`, `drizzle-kit`, `postgres`, `@supabase/supabase-js`, `@supabase/ssr`
-- [ ] Install UI deps: `bits-ui`, `svelte-dnd-action`, `svelte-awesome-color-picker` (atau bikin sendiri pakai bits-ui)
-- [ ] Setup `.env` + `.env.example`
-- [ ] Setup `drizzle.config.ts` + koneksi ke Supabase Postgres
-- [ ] Verifikasi versi SvelteKit support Remote Functions stabil (cek changelog)
-- [ ] Setup struktur folder sesuai rancangan (`lib/server`, `lib/components`, dll)
-- [ ] Deploy skeleton project ke Vercel, pastikan build sukses (sanity check awal)
+- [x] Init project: `npx sv create craftique-id` (pilih SvelteKit + TypeScript)
+- [x] Setup Supabase project baru (dapatkan `SUPABASE_URL`, `SUPABASE_ANON_KEY`, `SERVICE_ROLE_KEY`)
+- [x] Install dependencies inti: `drizzle-orm`, `drizzle-kit`, `postgres`, `@supabase/supabase-js`, `@supabase/ssr`
+- [ ] Install UI deps: `bits-ui`, `svelte-dnd-action`, `svelte-awesome-color-picker` (atau bikin sendiri pakai bits-ui) nantian ini fase 3
+- [x] Setup `.env` + `.env.example`
+- [x] Setup `drizzle.config.ts` + koneksi ke Supabase Postgres
+- [x] Verifikasi versi SvelteKit support Remote Functions stabil (cek changelog) ini sudah kita bahas sebelumnya
+- [x] Setup struktur folder sesuai rancangan (`lib/server`, `lib/components`, dll)
+- [x] Deploy skeleton project ke Vercel, pastikan build sukses (sanity check awal) udah ku deploy buat sanity check dan aman
 
 ## Fase 1: Auth
 
