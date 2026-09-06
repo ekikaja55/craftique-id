@@ -6,7 +6,7 @@ plus sistem pemesanan produk & jasa komisi terintegrasi.
 
 ## Konsep
 
-Craftique-ID menjembatani tiga pihak:
+Craftique-ID menjembatani tiga pihak
 - **Artist** — showcase karya, jual produk, buka jasa komisi
 - **Buyer** — browse showcase, pesan produk/komisi, upload bukti pembayaran
 - **Admin** — moderasi platform (fase lanjutan)
